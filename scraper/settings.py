@@ -25,7 +25,7 @@ SECRET_KEY = ')o#cskz#e7v#ou$y)a99$i74eo7ug!ho=rvq29f75u&r89jr)a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'scrapifylist.herokuapp.com']
 
 
 # Application definition
