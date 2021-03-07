@@ -1,2 +1,2 @@
 # Scrapify - Web Scraper
-<a ="http://scrapifylist.herokuapp.com">Scrapify</a>
+<a href="http://scrapifylist.herokuapp.com" target="_blank">Scrapify</a>
